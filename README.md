@@ -1,8 +1,11 @@
 # Liquicity Winterfestival 2016
 ## Event information
 **Organizer:** Liquicity
+
 **Date:** 30-12-2016 22:00-07:00
+
 **Venue:** Mediahaven Amsterdam
+
 **URL:** https://www.facebook.com/events/1768823076724444/
 
 ## Tracklists
