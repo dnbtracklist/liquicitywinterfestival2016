@@ -17,4 +17,4 @@
 | 4   | 01:30-03:00 | [Fred V & Grafix](../master/4-fred_v_and_grafix.md)                 | 9/?   |
 | 5   | 03:00-04:30 | [Matrix & Futurebound](../master/5-matrix_and_futurebound.md)       | 0/?   |
 | 6   | 04:30-05:30 | [Fox Stevenson](../master/6-fox_stevenson.md)                       | 0/?   |
-| 7   | 05:30-07:00 | [Maduk b2b Feint](../master/7-maduk_b2b_feint.md)                   | 38/67  |
+| 7   | 05:30-07:00 | [Maduk b2b Feint](../master/7-maduk_b2b_feint.md)                   | 44/65 |
