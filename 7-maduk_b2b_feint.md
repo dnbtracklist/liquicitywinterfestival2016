@@ -41,8 +41,29 @@
 | 39  | 00:53:32 | Feint - Face Down                                                                |
 | 40  | 00:54:38 | Xilent - Free Me (Smooth Remix)                                                  |
 | 41  | 00:55:42 | Brookes Brothers - Loveline (Ft. Haz-Mat)                                        |
-| 42  | 00:??:?? |                                         |
-
-
-
-
+| 42  | 00:57:23 | Liquido - Narcotic                                                               |
+| 43  | 00:59:16 |                                                                                  |
+| 44  | 01:00:22 | Maduk - Stand By You                                                             |
+| 45  | 01:02:04 | Feint - Words (ft. Laura Brehm)                                                  |
+| 46  | 01:03:30 |                                                                                  |
+| 47  | 01:03:30 |                                                                                  |
+| 48  | 01:04:55 |                                                                                  |
+| 49  | 01:06:02 |                                                                                  |
+| 50  | 01:06:45 |                                                                                  |
+| 51  | 01:08:32 | TC - Get Down Low                                                                |
+| 52  | 01:09:25 | Dimension - Whip Slap                                                            |
+| 53  | 01:10:29 |                                                                                  |
+| 54  | 01:11:33 |                                                                                  |
+| 55  | 01:12:37 |                                                                                  |
+| 56  | 01:13:21 | Porter Robinson - Sad Machine (Remix???)                                         |
+| 57  | 01:15:27 | Eric Prydz - Pjanoo (High Contrast Remix)                                        |
+| 58  | 01:16:51 | Maduk - Not Alone (ft. Duckfront, MVE and Frae)                                  |
+| 59  | 01:17:55 | Stan SB - Anyone Out There (Maduk Remix)                                         |
+| 60  | 01:19:55 |                                                                                  |
+| 61  | 01:21:42 | Cartoon - Whatever I Do (feat. Kóstja)                                           |
+| 62  | 01:23:08 | Priority One & TwoThirds - City Needs Sleep (Fox Stevenson Remix)                |
+| 63  | 01:24:31 |                                                                                  |
+| 64  | 01:25:55 | Seven Lions - Below Us (Smooth Remix)                                            |
+| 65  | 01:26:39 |                                                                                  |
+| 66  | 01:28:23 | Rusko - Everyday (Netsky Remix)                                                  |
+| 67  | 01:31:21 | Maduk ft. Veela - Ghost Assassin VIP                                             |
