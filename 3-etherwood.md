@@ -24,7 +24,7 @@
 | 20  | 00:35:01 | Etherwood - The Time is Here At Last (feat. Hybrid Minds)                        |
 | 21  | 00:35:48 |                                                                                  |
 | 22  | 00:36:55 | Dimension - Love To Me                                                           |
-| 23  | 00:38:41 |                                                                                  |
+| 23  | 00:38:41 | Metrik - Fatso                                                                   |
 | 24  | 00:39:47 | Culture Shock - Have It All (feat. Raphaella)                                    |
 | 25  | 00:41:36 | High Contrast - Remind Me                                                        |
 | 26  | 00:43:23 | Etherwood - The Rain Will Fall (feat. LSB)                                       |
@@ -44,4 +44,4 @@
 | 40  | 01:04:07 | Bachelors of Science - Song for Lovers                                           |
 | 41  | 01:05:58 | Camo & Krooked - Climax                                                          |
 | 42  | 01:09:13 | Daughter - Youth (Hybrid Minds Bootleg)                                          |
-| 43  | 01:11:50 |                                                                                  |
+| 43  | 01:11:50 | Metrik - Penggemar                                                               |
