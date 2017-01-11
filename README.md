@@ -2,9 +2,9 @@
 ## Event information
 **Organizer:** Liquicity
 
-**Date:** 30-12-2016 22:00-07:00
-
 **Venue:** Mediahaven Amsterdam
+
+**Date:** 30-12-2016 22:00-07:00
 
 **URL:** https://www.facebook.com/events/1768823076724444/
 
@@ -32,11 +32,11 @@
 | 7   | 04:00-06:00 | NCT b2b T & Sugah                                  |       |
 
 ### Basement
-| \#  | Time        | DJ         | ID'd  |
-| --- | ----------- | ---------- | ----- |
-| 1   | 23:00-00:00 | Low5       |       |
-| 2   | 00:00-01:00 | Edlan      |       |
-| 3   | 01:00-02:00 | Monrroe    |       |
-| 4   | 02:00-03:00 | Futuristik |       |
-| 5   | 03:00-04:15 | Gavin G    |       |
-| 6   | 04:15-05:30 | Zazu       |       |
+| \#  | Time        | DJ                                   | ID'd  |
+| --- | ----------- | ------------------------------------ | ----- |
+| 1   | 23:00-00:00 | Low5                                 |       |
+| 2   | 00:00-01:00 | Edlan                                |       |
+| 3   | 01:00-02:00 | Monrroe                              |       |
+| 4   | 02:00-03:00 | Futuristik                           |       |
+| 5   | 03:00-04:15 | Gavin G                              |       |
+| 6   | 04:15-05:30 | [Zazu](../master/basement-6-zazu.md) |       |
