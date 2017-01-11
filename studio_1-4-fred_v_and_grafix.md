@@ -33,3 +33,16 @@
 | 20  | 00:28:09 | Wilkinson - Half Light (feat. Tom Cane)                                            |
 | 21  | 00:28:47 |                                                                                    |
 | 22  | 00:29:57 |                                                                                    |
+| 23  | 00:31:09 | Chase & Status - Blind Faith (Loadstar Remix)                                      |
+| 24  | 00:32:54 |                                                                                    |
+| 25  | 00:33:58 | Fred V & Grafix - Games People Play                                                |
+| 26  | 00:35:23 | Fred V & Grafix - Minor Happy                                                      |
+| 27  | 00:36:49 |                                                                                    |
+| 28  | 00:37:31 |                                                                                    |
+| 29  | 00:37:54 | Dabin - Hold (feat. Daniela Andrade) w/ ID                                         |
+| 30  | 00:39:21 | Fred V & Grafix - Just A Thought (feat. Reija Lee)                                 |
+| 31  | 00:40:47 |                                                                                    |
+| 32  | 00:42:08 | Chase & Status - Take Me Away                                                      |
+| 33  | 00:42:50 |                                                                                    |
+| 34  | 00:43:45 |                                                                                    |
+| 35  | 00:44:38 | Fred V & Grafix - Ultraviolet                                                      |
