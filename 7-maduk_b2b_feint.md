@@ -50,7 +50,7 @@
 | 39  | 00:54:38 | Xilent - Free Me (Smooth Remix)                                                  |
 | 40  | 00:55:42 | Brookes Brothers - Loveline (feat. Haz-Mat)                                      |
 | 41  | 00:57:23 | Liquido - Narcotic                                                               |
-| 42  | 00:59:16 |                                                                                  |
+| 42  | 00:59:16 | Friction - Bring it back                                                         |
 | 43  | 01:00:22 | Maduk - Stand By You                                                             |
 | 44  | 01:02:04 | Feint - Words (feat. Laura Brehm)                                                |
 | 45  | 01:03:12 | DJ Fresh - Hot Right Now (feat. Rita Ora) (Camo & Krooked Remix)                 |
