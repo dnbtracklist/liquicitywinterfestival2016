@@ -1,5 +1,12 @@
-## Etherwood
+# Etherwood
+## Event information
+**Event:** Liquicity Winterfestival 2016
 
+**Date:** 31-12-2016 00:15-01:30
+
+**VOD:** *not publicly available*
+
+## Tracklist
 | \#  | Time     | Track                                                                            |
 | --- | -------- | -------------------------------------------------------------------------------- |
 | 01  | 00:00:29 | Etherwood - Souvenirs (feat. Zara Kershaw)                                       |

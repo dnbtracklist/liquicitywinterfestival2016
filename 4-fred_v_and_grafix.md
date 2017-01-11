@@ -1,5 +1,12 @@
-## Fred V & Grafix
+# Fred V & Grafix
+## Set information
+**Event:** Liquicity Winterfestival 2016
 
+**Date:** 31-12-2016 01:30-03:00
+
+**VOD:** *not publicly available*
+
+## Tracklist
 | \#  | Time     | Track                                                                              |
 | --- | -------- | ---------------------------------------------------------------------------------- |
 | 01  | 00:00:34 | Fred V & Grafix - Altitude (feat. Amy J Pryce) w/ Fred V & Grafix - Constellations |
