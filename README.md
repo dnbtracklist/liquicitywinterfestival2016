@@ -27,7 +27,7 @@
 | 2   | 23:00-00:00 | Pola & Bryson                                      |       |
 | 3   | 00:00-01:00 | Silence Groove                                     |       |
 | 4   | 01:00-02:00 | [Rameses B](../master/studio_2-4-rameses_b.md)     |       |
-| 5   | 02:00-03:00 | Indivision                                         |       |
+| 5   | 02:00-03:00 | [Indivision](../master/studio_2-5-indivision.md)   |       |
 | 6   | 03:00-04:00 | Mediks                                             |       |
 | 7   | 04:00-06:00 | NCT b2b T & Sugah                                  |       |
 
@@ -39,4 +39,4 @@
 | 3   | 01:00-02:00 | Monrroe                              |       |
 | 4   | 02:00-03:00 | Futuristik                           |       |
 | 5   | 03:00-04:15 | Gavin G                              |       |
-| 6   | 04:15-05:30 | [Zazu](../master/basement-6-zazu.md) |       |
+| 6   | 04:15-05:30 | [Zazu](../master/basement-6-zazu.md) | 55/55, 3/54 timestamps      |
