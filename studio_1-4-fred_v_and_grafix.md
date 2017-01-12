@@ -14,7 +14,7 @@
 | 01  | 00:00:34 | Fred V & Grafix - Altitude (feat. Amy J Pryce) w/ Fred V & Grafix - Constellations |
 | 02  | 00:03:04 |                                                                                    |
 | 03  | 00:04:31 |                                                                                    |
-| 04  | 00:05:54 |                                                                                    |
+| 04  | 00:05:54 | Camo & Krooked - Ember                                                             |
 | 05  | 00:06:18 | Fred V & Grafix - Ignite (feat. Amy J Pryce)                                       |
 | 06  | 00:08:54 |                                                                                    |
 | 07  | 00:10:36 |                                                                                    |
@@ -32,7 +32,7 @@
 | 19  | 00:27:27 |                                                                                    |
 | 20  | 00:28:09 | Wilkinson - Half Light (feat. Tom Cane)                                            |
 | 21  | 00:28:47 |                                                                                    |
-| 22  | 00:29:57 |                                                                                    |
+| 22  | 00:29:57 | Philip George & Dragonette - Feel This Way (Fred V & Grafix Remix)                 |
 | 23  | 00:31:09 | Chase & Status - Blind Faith (Loadstar Remix)                                      |
 | 24  | 00:32:54 |                                                                                    |
 | 25  | 00:33:58 | Fred V & Grafix - Games People Play                                                |
@@ -40,9 +40,27 @@
 | 27  | 00:36:49 |                                                                                    |
 | 28  | 00:37:31 |                                                                                    |
 | 29  | 00:37:54 | Dabin - Hold (feat. Daniela Andrade) w/ ID                                         |
-| 30  | 00:39:21 | Fred V & Grafix - Just A Thought (feat. Reija Lee)                                 |
+| 30  | 00:39:56 | Fred V & Grafix - Just A Thought (feat. Reija Lee)                                 |
 | 31  | 00:40:47 |                                                                                    |
 | 32  | 00:42:08 | Chase & Status - Take Me Away                                                      |
-| 33  | 00:42:50 |                                                                                    |
+| 33  | 00:42:50 | TroyBoi - Afterhours ft. Diplo & Nina Sky (QUIX Remix)                             |
 | 34  | 00:43:45 |                                                                                    |
 | 35  | 00:44:38 | Fred V & Grafix - Ultraviolet                                                      |
+| 36  | 00:46:34 | Fred V & Grafix - Ultraviolet w/ ##ID##                                            |
+| 37  | 00:48:03 |                                                                                    |
+| 38  | 00:50:50 |                                                                                    |
+| 39  | 00:52:36 | Rusko - Everyday (Netsky Remix) w/ ##ID##                                          |
+| 40  | 00:54:19 | Camo & Krooked - Climax                                                            |
+| 41  | 00:56:30 | <- somewhere around there, fully on at 57:15                                       |
+| 42  | 00:57:34 |                                                                                    |
+| 43  | 00:59:25 |                                                                                    |
+| 44  | 00:XX:XX |                                                      |
+| 45  | 00:XX:XX |                                                      |
+| 46  | 00:XX:XX |                                                      |
+| 47  | 00:XX:XX |                                                      |
+| 48  | 00:XX:XX |                                                      |
+
+
+
+
+
