@@ -6,7 +6,7 @@
 
 **Date:** 31-12-2016 03:00-04:30
 
-**VOD:** *not publicly available*
+**VOD:** https://www.youtube.com/watch?v=sU2kx9ppTXA
 
 ## Tracklist
 | \#  | Time     | Track |
