@@ -13,10 +13,10 @@
 | \#  | Time        | DJ                                                                     | ID'd  |
 | --- | ----------- | ---------------------------------------------------------------------- | ----- |
 | 1   | 22:00-23:00 | [Nexus & Tight](../master/studio_1-1-nexus_and_tight.md)               |       |
-| 2   | 23:00-00:15 | [Malaky](../master/studio_1-2-malaky.md)                               |       |
+| 2   | 23:00-00:15 | [Malaky](../master/studio_1-2-malaky.md)                               | 2/?   |
 | 3   | 00:15-01:30 | [Etherwood](../master/studio_1-3-etherwood.md)                         | 41/41 |
 | 4   | 01:30-03:00 | [Fred V & Grafix](../master/studio_1-4-fred_v_and_grafix.md)           | 17/?  |
-| 5   | 03:00-04:30 | [Matrix & Futurebound](../master/studio_1-5-matrix_and_futurebound.md) |       |
+| 5   | 03:00-04:30 | [Matrix & Futurebound](../master/studio_1-5-matrix_and_futurebound.md) | 13/?  |
 | 6   | 04:30-05:30 | [Fox Stevenson](../master/studio_1-6-fox_stevenson.md)                 | 57/62 |
 | 7   | 05:30-07:00 | [Maduk b2b Feint](../master/studio_1-7-maduk_b2b_feint.md)             | 44/65 |
 
