@@ -50,13 +50,29 @@
 | 37  | 00:48:25 | Basement Jaxx - Good Luck (ID Remix)                                                      |
 | 38  | 00:49:50 | Break - Hope (feat. Celestine)                                                            |
 | 39  | 00:50:50 | Taxman - Too Bad (Remix)                                                                  |
-| 39  | 00:52:36 | Rusko - Everyday (Netsky Remix) w/ Chase & Status - In Love (feat. Jenna G)               |
-| 40  | 00:54:19 | Camo & Krooked - Climax w/ ID                                                             |
-| 41  | 00:56:11 | Fred V & Grafix - Room To Breathe                                                         |
-| 42  | 00:57:34 | Flume - Never Be Like You (feat. Kai) w/ Fred V & Grafix - Rainbow Road                   |
-| 43  | 00:59:25 | Loko - What You Do To Me                                                                  |
-| 44  | 00:59:57 | Urbandawn - Prime Expansion                                                               |
-| 45  | 00:XX:XX |                                                      |
-| 46  | 00:XX:XX |                                                      |
-| 47  | 00:XX:XX |                                                      |
-| 48  | 00:XX:XX |                                                      |
+| 40  | 00:52:36 | Rusko - Everyday (Netsky Remix) w/ Chase & Status - In Love (feat. Jenna G)               |
+| 41  | 00:54:19 | Camo & Krooked - Climax w/ ID                                                             |
+| 42  | 00:56:11 | Fred V & Grafix - Room To Breathe                                                         |
+| 43  | 00:57:34 | Flume - Never Be Like You (feat. Kai) w/ Fred V & Grafix - Rainbow Road                   |
+| 44  | 00:59:25 | Loko - What You Do To Me                                                                  |
+| 45  | 00:59:57 | Urbandawn - Prime Expansion                                                               |
+| 46  | 01:01:22 | Imogen Heap - Hide And Seek (ID Remix)                                                    |
+| 47  | 01:02:38 | Fred V & Grafix - Forest Fires (feat. Etherwood)                                          |
+| 48  | 01:04:25 |                                                                                           |
+| 49  | 01:05:19 | Noisia - Diplodocus                                                                       |
+| 50  | 01:06:12 | Secondcity - What Can I Do (feat. Ali Love) (Fred V & Grafix Remix)                       |
+| 51  | 01:07:47 | Netsky - I Refuse                                                                         |
+| 52  | 01:08:52 |                                                                                           |
+| 53  | 01:09:23 | Fred V & Grafix - Stay Here                                                               |
+| 54  | 01:11:18 | Gorillaz - Clint Eastwood                                                                 |
+| 55  | 01:12:06 | Upgrade - More                                                                            |
+| 56  | 01:13:39 |                                                                                           |
+| 57  | 01:14:21 | Polya & Bryson - My Detention (feat. Tayah Ettienne)                                      |
+| 58  | 01:15:48 | Fred V & Grafix - Oxygen                                                                  |
+| 59  | 01:17:35 | Fred V & Grafix - Together We're Lost (feat. Franko Fraize & Tone)                        |
+| 60  | 01:18:56 | Fred V & Grafix - Major Happy                                                             |
+| 61  | 01:20:28 | Netsky - Work It Out                                                                      |
+| 62  | 01:21:10 | Major Lazer - Get Free (feat. Amber) (Andy C Remix)                                       |
+| 63  | 01:22:32 | Fred V & Grafix - Like The Sun                                                            |
+| 64  | 01:24:23 | Metrik - Want My Love (feat. Elisabeth Troy)                                              |
+| 65  | 01:25:54 | Stanton Warriors - Still Here (feat. Eska) (ID Remix)                                     |
