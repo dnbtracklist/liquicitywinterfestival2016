@@ -14,7 +14,6 @@
 | 01  | 00:00:16 | Fox Stevenson - Knowhow                                                                 |
 | 02  | 00:01:22 | Fox Stevenson - Knowhow w/ Sub Focus - Eclipse                                          |
 | 03  | 00:03:32 | Sub Focus - Rock It                                                                     |
-| 03  | 00:03:32 | Sub Focus - Rock It                                                                     |
 | 04  | 00:03:32 | GTA - Parental Advisory (Kill The Noise Remix)                                          |
 | 05  | 00:04:58 | Pendulum - Watercolour                                                                  |
 | 06  | 00:06:23 | Wilkinson - Samurai                                                                     |
