@@ -23,20 +23,20 @@
 ### Studio 2
 | \#  | Time        | DJ                                                 | ID'd  |
 | --- | ----------- | -------------------------------------------------- | ----- |
-| 1   | 22:00-23:00 | [Arch Origin](../master/studio_2-1-arch_origin.md) |       |
-| 2   | 23:00-00:00 | Pola & Bryson                                      |       |
-| 3   | 00:00-01:00 | Silence Groove                                     |       |
-| 4   | 01:00-02:00 | [Rameses B](../master/studio_2-4-rameses_b.md)     |       |
-| 5   | 02:00-03:00 | [Indivision](../master/studio_2-5-indivision.md)   |       |
-| 6   | 03:00-04:00 | Mediks                                             |       |
-| 7   | 04:00-06:00 | NCT b2b T & Sugah                                  |       |
+| 1   | 22:00-23:00 | [Arch Origin](../master/studio_2-1-arch_origin.md)          |       |
+| 2   | 23:00-00:00 | Pola & Bryson                                               |       |
+| 3   | 00:00-01:00 | [Silence Groove](../master/studio_2-3-silence_groove.md)    | 37/37 |
+| 4   | 01:00-02:00 | [Rameses B](../master/studio_2-4-rameses_b.md)              |       |
+| 5   | 02:00-03:00 | [Indivision](../master/studio_2-5-indivision.md)            |       |
+| 6   | 03:00-04:00 | Mediks                                                      |       |
+| 7   | 04:00-06:00 | NCT b2b T & Sugah                                           |       |
 
 ### Basement
 | \#  | Time        | DJ                                   | ID'd  |
 | --- | ----------- | ------------------------------------ | ----- |
-| 1   | 23:00-00:00 | Low5                                 |       |
-| 2   | 00:00-01:00 | Edlan                                |       |
-| 3   | 01:00-02:00 | Monrroe                              |       |
-| 4   | 02:00-03:00 | Futuristik                           |       |
-| 5   | 03:00-04:15 | Gavin G                              |       |
-| 6   | 04:15-05:30 | [Zazu](../master/basement-6-zazu.md) | 55/55 |
+| 1   | 23:00-00:00 | [Low5](../master/basement-1-low5.md)        |       |
+| 2   | 00:00-01:00 | Edlan                                       |       |
+| 3   | 01:00-02:00 | [Monrroe](../master/basement-3-monrroe.md)  |       |
+| 4   | 02:00-03:00 | Futuristik                                  |       |
+| 5   | 03:00-04:15 | [Gavin G](../master/basement-5-gavin_g.md)  |       |
+| 6   | 04:15-05:30 | [Zazu](../master/basement-6-zazu.md)        | 55/55 |
