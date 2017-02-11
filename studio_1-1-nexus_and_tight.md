@@ -6,7 +6,7 @@
 
 **Date:** 30-12-2016 22:00-23:00
 
-**VOD:** *not publicly available*
+**VOD:** https://soundcloud.com/nexus_tight/nexus-tight-liquicity-winterfestival-december-2016
 
 ## Tracklist
 | \#  | Time     | Track |
